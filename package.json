@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "lodash": "4"
+  },
+  "devDependencies": {
+    "@types/lodash": "4"
+  },
+  "name": "depcheck-585",
+  "version": "0.0.1"
+}
